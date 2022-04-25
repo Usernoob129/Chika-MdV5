@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281313584844','6289531724196','62881-022089635']
+global.owner = ['6281313584844','6289531724196','62881022089635']
 global.premium = ['6281313584844']
 global.ownernomer = '6281313584844'
 global.ownername = 'OWNER NISABot'
